@@ -18,7 +18,7 @@ describe('generateLinkedList', () => {
               next: {
                 value: null,
                 next: null
-              },
+              }
             },
           },
         },
